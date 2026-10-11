@@ -1,6 +1,6 @@
 # Hi, I'm Guillem Tapia 👋
 
-**Robotics Software Engineer
+**Robotics Software Engineer**
 
 I'm an Industrial Engineer specialized in **Robotics and Automation** at UPC, based in Barcelona. I'm passionate about robotics software, control, state estimation, dynamics and modelling, with a focus on developing intelligent and reliable autonomous systems.
 
