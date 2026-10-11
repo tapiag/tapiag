@@ -23,5 +23,5 @@ I'm an Industrial Engineer specialized in **Robotics and Automation** at UPC, ba
 
 ### 📫 Connect
 
-📍 Barcelona, Spain
-💼 [LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/tapiag)
+📍 Barcelona, Spain  
+💼 [LinkedIn](https://www.linkedin.com/in/guillem-tapia-palacio-6266921a3/) · [Google Scholar](https://scholar.google.com/citations?user=isBiq6MAAAAJ&hl=ca) · [GitHub](https://github.com/tapiag)
